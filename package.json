@@ -1,0 +1,19 @@
+{
+  "name": "request_combiner",
+  "version": "1.0.0",
+  "description": "合并静态资源请求",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KongXianghuan/request_combiner.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KongXianghuan/request_combiner/issues"
+  },
+  "homepage": "https://github.com/KongXianghuan/request_combiner#readme"
+}
